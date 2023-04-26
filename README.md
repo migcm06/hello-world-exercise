@@ -17,14 +17,18 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
   - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello World Exercise <a name="about-project"></a>
-
 
 **Hello World** is a first tiny project that I do for Microverse, in the project you can see the use of the linters and how they work testing that all is running good.
 
@@ -53,6 +57,16 @@ The project uses the following technologies: Git, Github, linters (stylelint, Li
 
 <!-- GETTING STARTED -->
 
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+To get a local copy up and running, follow these steps:
+
+*1* You should open your Terminal and copy the SSH link to clone it to your local machine.
+</br>
+*2* When you had downloaded it, you can run it open the index.html file on your browser.
+
+
 
 
 ### Setup
@@ -77,15 +91,45 @@ using this:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [1] I would like to make the Hello World! text more interactive when you click on it.
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+
+
+
 <!-- SUPPORT -->
+## ⭐️ Show your support <a name="support"></a>
+
+
+If you like this project, please let me know it in a comment or if you want reply it and it don't run for you i will be happy to help you.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank to Manuel and Randall, I was stuck for a long time and they help me to solve the bug.
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
